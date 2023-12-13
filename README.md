@@ -1,12 +1,14 @@
 # HackintoshEFI
 Computer Specifications:
 
-| **Ammount of RAM** | 24GB                       |
-|--------------------|----------------------------|
-| **Graphics Card**  | XFX RX 6700 XT 12GB        |
-| **Motherboard**    | ROG STRIX B450-F GAMING II |
-| **Processor**      | AMD RYZEN 5 5600X          |
-| **OS**             | MacOS Ventura 13.5.2       |
+|                     |                            |
+|---------------------|----------------------------|
+| **Opencore Version**| 0.9.6                      |
+| **Ammount of RAM**  | 24GB                       |
+| **Graphics Card**   | XFX RX 6700 XT 12GB        |
+| **Motherboard**     | ROG STRIX B450-F GAMING II |
+| **Processor**       | AMD RYZEN 5 5600X          |
+| **OS**              | MacOS Ventura 13.5.2       |
 
 Tested on MacOS Ventura, gonna update this repo when i upgrade to sonoma.
 
