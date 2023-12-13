@@ -10,7 +10,7 @@ Computer Specifications:
 | **Processor**       | AMD RYZEN 5 5600X          |
 | **OS**              | MacOS Ventura 13.5.2       |
 
-Tested on MacOS Ventura, gonna update this repo when i upgrade to sonoma.
+Tested on MacOS Ventura, Sonoma will work after applying the [RestricEvents](https://github.com/acidanthera/RestrictEvents/releases/) kext and adding **revpatch=sbvmm** as a boot arg then updating via the settings
 
 # Important
 
