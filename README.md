@@ -8,7 +8,7 @@ Computer Specifications:
 | **Processor**      | AMD RYZEN 5 5600X          |
 | **OS**             | MacOS Ventura 13.5.2       |
 
-Tested on MacOS Ventura, gonna update when i try sonoma.
+Tested on MacOS Ventura, gonna update this repo when i upgrade to sonoma.
 
 # Important
 
