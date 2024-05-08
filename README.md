@@ -1,16 +1,18 @@
 # HackintoshEFI
 Computer Specifications:
 
-|                     |                            |
+| ** ^_____^ **       |** ^_____^ **               |
 |---------------------|----------------------------|
-| **Opencore Version**| 0.9.6                      |
+| **Opencore Version**| 0.9.9                      |
 | **Ammount of RAM**  | 24GB                       |
 | **Graphics Card**   | XFX RX 6700 XT 12GB        |
 | **Motherboard**     | ROG STRIX B450-F GAMING II |
 | **Processor**       | AMD RYZEN 5 5600X          |
-| **OS**              | MacOS Ventura 13.5.2       |
+| **OS**              | MacOS Sonoma 14.4          |
 
-Tested on MacOS Ventura, Sonoma will work after applying the [RestricEvents](https://github.com/acidanthera/RestrictEvents/releases/) kext and adding **revpatch=sbvmm** as a boot arg then updating via the settings
+# Note for myself
+
+if you are gonna install this, don't forget that u have to format the disk in APFS, u probably are going to need to delete all partitions in gparted to format it correctly on macOS, and change the smbios to a macbook pro 👍
 
 # Important
 
